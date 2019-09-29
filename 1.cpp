@@ -32,6 +32,7 @@ class Complex
 int main()
 {
     Complex c1, c2, result;
+    
     cout<<"Enter first complex number:\n";
     c1.input();
     cout<<"Enter second complex number:\n";
